@@ -1,0 +1,29 @@
+_repo: Public-School-Domestic-Science_18097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoodless, Adelaide
+    birthdate: 1858
+    deathdate: 1910
+    gutenberg_agent_id: '7805'
+    url: http://www.gutenberg.org/2009/agents/7805
+    wikipedia: http://en.wikipedia.org/wiki/Adelaide_Hoodless
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking -- Study and teaching (Secondary)'
+- !lcsh 'Home economics'
+title: Public School Domestic Science
+url: http://www.gutenberg.org/ebooks/18097
