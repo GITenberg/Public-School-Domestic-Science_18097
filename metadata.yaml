@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7805
     wikipedia: http://en.wikipedia.org/wiki/Adelaide_Hoodless
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18097#Public-School-Domestic-Science
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
